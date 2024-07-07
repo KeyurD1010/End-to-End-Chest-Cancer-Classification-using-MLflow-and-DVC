@@ -97,7 +97,7 @@ DVC
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
+    - Save the URI: 173480079719.dkr.ecr.ap-south-1.amazonaws.com/keyur_project
 
 ## 4. Create EC2 machine (Ubuntu)
 

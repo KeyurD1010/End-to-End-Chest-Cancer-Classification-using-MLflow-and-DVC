@@ -799,3 +799,43 @@ Traceback (most recent call last):
     elif result[1] == 2:
 IndexError: index 1 is out of bounds for axis 0 with size 1
 [2024-07-07 17:01:27,780: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:01:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 17:02:10,654: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 17:02:10,654: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 17:02:13,817: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:13] "GET / HTTP/1.1" 200 -]
+[2024-07-07 17:02:20,164: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:20] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:02:31,336: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:31] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:02:36,498: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:36] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:02:50,438: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:50] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:02:59,394: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001F6952BB430> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-07-07 17:02:59,410: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 30, in predict
+    elif result[1] == 2:
+IndexError: index 1 is out of bounds for axis 0 with size 1
+[2024-07-07 17:02:59,427: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:02:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 17:04:41,446: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:04:41] "GET / HTTP/1.1" 200 -]
+[2024-07-07 17:04:49,691: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001F6952BB430> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-07-07 17:04:49,691: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:04:49] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:11:13,775: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 17:11:13,776: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 17:11:41,753: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:11:41] "POST /predict HTTP/1.1" 200 -]
