@@ -129,3 +129,673 @@ x==========x]
 [2024-07-05 05:26:26,236: INFO: main: >>>>>> stage Training completed <<<<<<
 
 x==========x]
+[2024-07-06 04:36:36,172: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 04:36:36,503: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 04:36:36,506: INFO: common: created directory at: artifacts]
+[2024-07-06 17:42:49,666: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 17:42:49,682: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 17:42:49,685: INFO: common: created directory at: artifacts]
+[2024-07-06 17:44:09,786: INFO: common: json file saved at: scores.json]
+[2024-07-06 17:51:23,194: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 17:51:23,198: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 17:51:23,200: INFO: common: created directory at: artifacts]
+[2024-07-06 17:52:36,656: INFO: common: json file saved at: scores.json]
+[2024-07-06 17:54:50,531: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 17:54:50,536: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 17:54:50,539: INFO: common: created directory at: artifacts]
+[2024-07-06 17:56:14,217: INFO: common: json file saved at: scores.json]
+[2024-07-06 17:57:36,160: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 17:57:36,164: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 17:57:36,166: INFO: common: created directory at: artifacts]
+[2024-07-06 17:58:46,708: INFO: common: json file saved at: scores.json]
+[2024-07-06 18:01:22,025: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 18:01:22,031: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 18:01:22,032: INFO: common: created directory at: artifacts]
+[2024-07-06 18:02:28,416: INFO: common: json file saved at: scores.json]
+[2024-07-06 18:16:50,445: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 18:16:50,450: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 18:16:50,452: INFO: common: created directory at: artifacts]
+[2024-07-06 18:18:01,611: INFO: common: json file saved at: scores.json]
+[2024-07-06 21:15:17,400: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 21:15:17,408: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 21:15:17,417: INFO: common: created directory at: artifacts]
+[2024-07-06 21:16:28,416: INFO: common: json file saved at: scores.json]
+[2024-07-06 21:16:50,432: WARNING: connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /keyurdhanani456/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC.mlflow/api/2.0/mlflow/runs/create]
+[2024-07-06 21:19:35,144: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 21:19:35,153: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 21:19:35,159: INFO: common: created directory at: artifacts]
+[2024-07-06 21:20:50,084: INFO: common: json file saved at: scores.json]
+[2024-07-06 21:22:10,350: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 21:22:10,360: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 21:22:10,362: INFO: common: created directory at: artifacts]
+[2024-07-06 21:23:18,312: INFO: common: json file saved at: scores.json]
+[2024-07-06 21:24:35,178: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 21:24:35,188: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 21:24:35,193: INFO: common: created directory at: artifacts]
+[2024-07-06 21:25:49,426: INFO: common: json file saved at: scores.json]
+[2024-07-06 21:28:10,314: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 21:28:10,332: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 21:28:10,342: INFO: common: created directory at: artifacts]
+[2024-07-06 21:29:24,154: INFO: common: json file saved at: scores.json]
+[2024-07-06 22:34:57,262: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 22:34:57,268: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 22:34:57,268: INFO: common: created directory at: artifacts]
+[2024-07-06 22:36:09,715: INFO: common: json file saved at: scores.json]
+[2024-07-06 22:37:14,300: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 22:37:14,307: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 22:37:14,307: INFO: common: created directory at: artifacts]
+[2024-07-06 22:38:23,290: INFO: common: json file saved at: scores.json]
+[2024-07-06 22:40:09,478: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 22:40:09,482: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 22:40:09,483: INFO: common: created directory at: artifacts]
+[2024-07-06 22:41:19,108: INFO: common: json file saved at: scores.json]
+[2024-07-06 22:42:31,844: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 22:42:31,848: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 22:42:31,850: INFO: common: created directory at: artifacts]
+[2024-07-06 22:43:39,591: INFO: common: json file saved at: scores.json]
+[2024-07-06 22:53:49,621: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 22:53:49,625: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 22:53:49,627: INFO: common: created directory at: artifacts]
+[2024-07-06 22:54:57,914: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:02:41,327: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:02:41,332: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:02:41,336: INFO: common: created directory at: artifacts]
+[2024-07-06 23:03:50,719: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:12:10,962: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:12:10,965: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:12:10,967: INFO: common: created directory at: artifacts]
+[2024-07-06 23:13:19,362: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:15:04,219: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:15:04,224: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:15:04,226: INFO: common: created directory at: artifacts]
+[2024-07-06 23:16:14,800: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:16:48,932: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:16:48,953: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:16:48,956: INFO: common: created directory at: artifacts]
+[2024-07-06 23:17:54,021: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:19:02,370: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:19:02,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:19:02,377: INFO: common: created directory at: artifacts]
+[2024-07-06 23:20:14,969: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:23:49,687: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:23:49,707: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:23:49,722: INFO: common: created directory at: artifacts]
+[2024-07-06 23:24:56,618: INFO: common: json file saved at: scores.json]
+[2024-07-06 23:28:22,566: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-06 23:28:22,573: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-06 23:28:22,575: INFO: common: created directory at: artifacts]
+[2024-07-06 23:29:31,317: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:16:21,330: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:16:21,336: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:16:21,337: INFO: common: created directory at: artifacts]
+[2024-07-07 00:17:36,803: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:17:56,184: WARNING: connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /keyurdD1010/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC.mlflow/api/2.0/mlflow/runs/create]
+[2024-07-07 00:19:02,922: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:19:02,937: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:19:02,939: INFO: common: created directory at: artifacts]
+[2024-07-07 00:20:22,017: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:25:04,266: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:25:04,266: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:25:04,266: INFO: common: created directory at: artifacts]
+[2024-07-07 00:26:16,658: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:39:40,394: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:39:40,396: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:39:40,410: INFO: common: created directory at: artifacts]
+[2024-07-07 00:40:51,513: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:49:24,118: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:49:24,123: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:49:24,125: INFO: common: created directory at: artifacts]
+[2024-07-07 00:50:41,335: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:51:31,745: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:51:31,745: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:51:31,745: INFO: common: created directory at: artifacts]
+[2024-07-07 00:51:48,870: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:51:48,874: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:51:48,876: INFO: common: created directory at: artifacts]
+[2024-07-07 00:52:58,779: INFO: common: json file saved at: scores.json]
+[2024-07-07 00:55:29,564: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 00:55:29,571: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 00:55:29,574: INFO: common: created directory at: artifacts]
+[2024-07-07 00:56:47,443: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:09:25,778: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-07-07 01:09:28,054: INFO: builder_impl: Assets written to: C:\Users\keyur\AppData\Local\Temp\tmpz2ztk8q6\model\data\model\assets]
+[2024-07-07 01:13:53,937: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:13:53,942: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:13:53,945: INFO: common: created directory at: artifacts]
+[2024-07-07 01:15:09,050: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:16:36,122: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:16:36,201: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:16:36,201: INFO: common: created directory at: artifacts]
+[2024-07-07 01:17:48,316: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:18:30,472: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:18:30,479: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:18:30,480: INFO: common: created directory at: artifacts]
+[2024-07-07 01:19:38,133: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:20:17,453: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:20:17,461: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:20:17,463: INFO: common: created directory at: artifacts]
+[2024-07-07 01:21:21,976: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:22:02,477: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:22:02,479: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:22:02,481: INFO: common: created directory at: artifacts]
+[2024-07-07 01:23:11,709: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:24:28,541: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:24:28,541: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:24:28,557: INFO: common: created directory at: artifacts]
+[2024-07-07 01:25:36,744: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:26:35,661: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:26:35,664: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:26:35,665: INFO: common: created directory at: artifacts]
+[2024-07-07 01:27:44,014: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:29:17,503: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:29:17,520: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:29:17,522: INFO: common: created directory at: artifacts]
+[2024-07-07 01:30:24,008: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:31:38,923: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:31:38,928: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:31:38,930: INFO: common: created directory at: artifacts]
+[2024-07-07 01:32:48,526: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:33:46,919: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:33:46,922: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:33:46,923: INFO: common: created directory at: artifacts]
+[2024-07-07 01:35:30,429: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:37:30,577: WARNING: connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='dagshub.com', port=443): Read timed out. (read timeout=120)")': /keyurdD1010/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC.mlflow/api/2.0/mlflow/runs/create]
+[2024-07-07 01:42:18,264: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:42:18,271: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:42:18,278: INFO: common: created directory at: artifacts]
+[2024-07-07 01:43:46,842: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:44:55,790: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:44:55,799: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:44:55,799: INFO: common: created directory at: artifacts]
+[2024-07-07 01:46:14,217: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:48:29,190: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:48:29,193: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:48:29,195: INFO: common: created directory at: artifacts]
+[2024-07-07 01:49:42,184: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:52:47,930: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:52:47,935: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:52:47,937: INFO: common: created directory at: artifacts]
+[2024-07-07 01:53:52,377: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:55:48,497: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:55:48,503: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:55:48,505: INFO: common: created directory at: artifacts]
+[2024-07-07 01:57:13,608: INFO: common: json file saved at: scores.json]
+[2024-07-07 01:59:24,254: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 01:59:24,257: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 01:59:24,260: INFO: common: created directory at: artifacts]
+[2024-07-07 02:00:43,079: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:04:58,305: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:04:58,308: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:04:58,312: INFO: common: created directory at: artifacts]
+[2024-07-07 02:10:06,694: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:10:06,700: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:10:06,702: INFO: common: created directory at: artifacts]
+[2024-07-07 02:11:29,493: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:15:26,836: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:15:26,841: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:15:26,843: INFO: common: created directory at: artifacts]
+[2024-07-07 02:16:40,138: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:18:32,904: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:18:32,916: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:18:32,918: INFO: common: created directory at: artifacts]
+[2024-07-07 02:19:42,893: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:21:52,225: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:21:52,232: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:21:52,236: INFO: common: created directory at: artifacts]
+[2024-07-07 02:23:01,843: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:24:37,965: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:24:37,970: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:24:37,972: INFO: common: created directory at: artifacts]
+[2024-07-07 02:25:50,026: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:35:12,442: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:35:12,446: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:35:12,450: INFO: common: created directory at: artifacts]
+[2024-07-07 02:36:46,575: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:51:31,933: INFO: main: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 02:51:31,937: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:51:31,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:51:32,000: INFO: common: created directory at: artifacts]
+[2024-07-07 02:51:32,001: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 02:51:32,002: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 02:51:58,207: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 02:52:00,707: INFO: main: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 02:52:00,707: INFO: main: *******************]
+[2024-07-07 02:52:00,707: INFO: main: >>>>>> stage Preparing base model started <<<<<<]
+[2024-07-07 02:52:00,714: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:52:00,720: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:52:00,721: INFO: common: created directory at: artifacts]
+[2024-07-07 02:52:00,723: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-07 02:52:01,948: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-07 02:52:03,366: INFO: main: >>>>>> stage Preparing base model completed <<<<<<
+
+x==========x]
+[2024-07-07 02:52:03,366: INFO: main: *******************]
+[2024-07-07 02:52:03,366: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-07 02:52:03,380: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:52:03,385: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:52:03,386: INFO: common: created directory at: artifacts]
+[2024-07-07 02:52:03,397: INFO: common: created directory at: artifacts\training]
+[2024-07-07 02:55:37,392: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-07-07 02:55:37,396: INFO: main: *******************]
+[2024-07-07 02:55:37,396: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-07-07 02:55:37,406: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 02:55:37,408: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 02:55:37,408: INFO: common: created directory at: artifacts]
+[2024-07-07 02:56:41,090: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:56:41,090: INFO: common: json file saved at: scores.json]
+[2024-07-07 02:56:41,090: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-07 03:03:09,134: INFO: main: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 03:03:09,139: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:03:09,144: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:03:09,147: INFO: common: created directory at: artifacts]
+[2024-07-07 03:03:09,149: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 03:03:09,150: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 03:03:35,224: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 03:03:37,584: INFO: main: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 03:03:37,584: INFO: main: *******************]
+[2024-07-07 03:03:37,584: INFO: main: >>>>>> stage Preparing base model started <<<<<<]
+[2024-07-07 03:03:37,584: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:03:37,584: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:03:37,594: INFO: common: created directory at: artifacts]
+[2024-07-07 03:03:37,595: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-07 03:03:38,544: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-07 03:03:41,234: INFO: main: >>>>>> stage Preparing base model completed <<<<<<
+
+x==========x]
+[2024-07-07 03:03:41,234: INFO: main: *******************]
+[2024-07-07 03:03:41,234: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-07 03:03:41,234: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:03:41,244: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:03:41,245: INFO: common: created directory at: artifacts]
+[2024-07-07 03:03:41,246: INFO: common: created directory at: artifacts\training]
+[2024-07-07 03:07:16,933: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-07-07 03:07:16,933: INFO: main: *******************]
+[2024-07-07 03:07:16,933: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-07-07 03:07:16,938: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:07:16,943: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:07:16,943: INFO: common: created directory at: artifacts]
+[2024-07-07 03:08:21,203: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:08:21,203: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:08:21,203: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-07 03:12:25,358: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:12:25,369: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:12:25,372: INFO: common: created directory at: artifacts]
+[2024-07-07 03:13:44,339: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:27:02,234: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:27:02,252: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:27:02,258: INFO: common: created directory at: artifacts]
+[2024-07-07 03:28:46,071: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:31:47,294: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:31:47,298: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:31:47,308: INFO: common: created directory at: artifacts]
+[2024-07-07 03:33:03,560: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:36:20,943: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:36:20,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:36:20,963: INFO: common: created directory at: artifacts]
+[2024-07-07 03:37:37,251: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:40:53,637: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:40:53,641: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:40:53,643: INFO: common: created directory at: artifacts]
+[2024-07-07 03:41:21,493: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:41:21,498: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:41:21,500: INFO: common: created directory at: artifacts]
+[2024-07-07 03:42:35,459: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:44:21,330: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:44:21,335: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:44:21,338: INFO: common: created directory at: artifacts]
+[2024-07-07 03:45:30,760: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:47:39,738: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:47:39,742: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:47:39,743: INFO: common: created directory at: artifacts]
+[2024-07-07 03:48:44,894: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:49:57,299: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:49:57,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:49:57,308: INFO: common: created directory at: artifacts]
+[2024-07-07 03:51:12,639: INFO: common: json file saved at: scores.json]
+[2024-07-07 03:56:44,305: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 03:56:44,313: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 03:56:44,315: INFO: common: created directory at: artifacts]
+[2024-07-07 03:58:03,262: INFO: common: json file saved at: scores.json]
+[2024-07-07 04:02:28,095: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 04:02:28,136: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 04:02:28,139: INFO: common: created directory at: artifacts]
+[2024-07-07 04:03:43,477: INFO: common: json file saved at: scores.json]
+[2024-07-07 04:09:30,929: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 04:09:30,934: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 04:09:30,939: INFO: common: created directory at: artifacts]
+[2024-07-07 04:10:49,222: INFO: common: json file saved at: scores.json]
+[2024-07-07 14:26:26,174: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 14:26:26,258: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 14:26:26,258: INFO: common: created directory at: artifacts]
+[2024-07-07 14:27:43,568: INFO: common: json file saved at: scores.json]
+[2024-07-07 15:22:49,613: INFO: main: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 15:22:49,629: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:22:49,629: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:22:49,629: INFO: common: created directory at: artifacts]
+[2024-07-07 15:22:49,629: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 15:22:49,629: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:23:14,927: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:23:18,964: INFO: main: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 15:23:18,964: INFO: main: *******************]
+[2024-07-07 15:23:18,964: INFO: main: >>>>>> stage Preparing base model started <<<<<<]
+[2024-07-07 15:23:18,964: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:23:18,980: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:23:18,981: INFO: common: created directory at: artifacts]
+[2024-07-07 15:23:18,982: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-07 15:23:20,655: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-07 15:23:22,113: INFO: main: >>>>>> stage Preparing base model completed <<<<<<
+
+x==========x]
+[2024-07-07 15:23:22,113: INFO: main: *******************]
+[2024-07-07 15:23:22,113: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-07 15:23:22,123: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:23:22,127: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:23:22,128: INFO: common: created directory at: artifacts]
+[2024-07-07 15:23:22,129: INFO: common: created directory at: artifacts\training]
+[2024-07-07 15:26:55,351: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-07-07 15:26:55,351: INFO: main: *******************]
+[2024-07-07 15:26:55,351: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-07-07 15:26:55,351: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:26:55,373: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:26:55,375: INFO: common: created directory at: artifacts]
+[2024-07-07 15:28:01,339: INFO: common: json file saved at: scores.json]
+[2024-07-07 15:28:01,339: INFO: common: json file saved at: scores.json]
+[2024-07-07 15:28:04,279: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-07-07 15:28:06,850: INFO: builder_impl: Assets written to: C:\Users\keyur\AppData\Local\Temp\tmpx6ar5ljz\model\data\model\assets]
+[2024-07-07 15:28:25,480: INFO: dir_util: creating D:\Project\Chest Cancer Classification\End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC\mlruns\0\b63ee46a13534c9b905e64510185ddb6\artifacts\model\data]
+[2024-07-07 15:28:25,485: INFO: dir_util: creating D:\Project\Chest Cancer Classification\End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC\mlruns\0\b63ee46a13534c9b905e64510185ddb6\artifacts\model\data\model]
+[2024-07-07 15:28:25,486: INFO: dir_util: creating D:\Project\Chest Cancer Classification\End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC\mlruns\0\b63ee46a13534c9b905e64510185ddb6\artifacts\model\data\model\assets]
+[2024-07-07 15:28:25,494: INFO: dir_util: creating D:\Project\Chest Cancer Classification\End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC\mlruns\0\b63ee46a13534c9b905e64510185ddb6\artifacts\model\data\model\variables]
+[2024-07-07 15:28:25,653: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-07 15:36:12,778: INFO: stage_01_data_ingestion: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 15:36:12,783: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:36:12,791: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:36:12,792: INFO: common: created directory at: artifacts]
+[2024-07-07 15:36:12,793: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 15:36:12,794: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:36:38,212: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:36:41,745: INFO: stage_01_data_ingestion: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 15:38:58,375: INFO: stage_01_data_ingestion: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 15:38:58,375: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:38:58,375: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:38:58,375: INFO: common: created directory at: artifacts]
+[2024-07-07 15:38:58,375: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 15:38:58,375: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:39:22,514: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:39:26,384: INFO: stage_01_data_ingestion: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 15:40:49,426: INFO: stage_01_data_ingestion: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 15:40:49,426: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:40:49,426: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:40:49,426: INFO: common: created directory at: artifacts]
+[2024-07-07 15:40:49,426: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 15:40:49,439: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:41:12,883: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:41:14,404: INFO: stage_01_data_ingestion: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 15:42:00,503: INFO: stage_01_data_ingestion: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 15:42:00,503: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 15:42:00,503: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 15:42:00,503: INFO: common: created directory at: artifacts]
+[2024-07-07 15:42:00,511: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 15:42:00,512: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:42:23,619: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 15:42:25,101: INFO: stage_01_data_ingestion: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 16:18:04,220: INFO: main: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 16:18:04,220: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 16:18:04,232: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 16:18:04,234: INFO: common: created directory at: artifacts]
+[2024-07-07 16:18:04,234: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 16:18:04,234: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 16:18:18,622: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 16:18:21,193: INFO: main: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 16:18:21,194: INFO: main: *******************]
+[2024-07-07 16:18:21,194: INFO: main: >>>>>> stage Preparing base model started <<<<<<]
+[2024-07-07 16:18:21,205: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 16:18:21,211: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 16:18:21,213: INFO: common: created directory at: artifacts]
+[2024-07-07 16:18:21,218: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-07 16:18:22,705: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-07 16:18:24,351: INFO: main: >>>>>> stage Preparing base model completed <<<<<<
+
+x==========x]
+[2024-07-07 16:18:24,353: INFO: main: *******************]
+[2024-07-07 16:18:24,355: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-07 16:18:24,361: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 16:18:24,365: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 16:18:24,371: INFO: common: created directory at: artifacts]
+[2024-07-07 16:18:24,372: INFO: common: created directory at: artifacts\training]
+[2024-07-07 16:23:29,432: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-07-07 16:23:29,449: INFO: main: *******************]
+[2024-07-07 16:23:29,449: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-07-07 16:23:29,449: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 16:23:29,449: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 16:23:29,449: INFO: common: created directory at: artifacts]
+[2024-07-07 16:24:45,636: INFO: common: json file saved at: scores.json]
+[2024-07-07 16:24:45,638: INFO: common: json file saved at: scores.json]
+[2024-07-07 16:24:45,639: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-07 16:26:51,042: INFO: stage_01_data_ingestion: >>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<<]
+[2024-07-07 16:26:51,042: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-07 16:26:51,053: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-07 16:26:51,055: INFO: common: created directory at: artifacts]
+[2024-07-07 16:26:51,055: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-07 16:26:51,056: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 16:26:58,857: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iLLcNSi9yre-OdgUqP4_JBTf7V1XERKa/view?usp=sharing into file artifacts/data_ingestion/Data.zip]
+[2024-07-07 16:27:00,424: INFO: stage_01_data_ingestion: >>>>>>>>>Data Ingestion Stage Completed <<<<<<<<<<<]
+[2024-07-07 16:32:48,060: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:32:48,060: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:33:24,868: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:33:24] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:34:37,600: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 18, in predict
+    model = load_model(os.path.join("model", "model.h5"))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\legacy\save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at model\model.h5
+[2024-07-07 16:34:37,638: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:34:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:50:17,323: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:50:17] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:50:23,473: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 18, in predict
+    # model = load_model(os.path.join("artifacts","training", "model.h5"))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\legacy\save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at model\model.h5
+[2024-07-07 16:50:23,485: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:50:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:50:55,287: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:50:55,289: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:51:00,408: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:51:00] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:51:04,890: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 19, in predict
+    model = load_model(os.path.join("model", "model.h5"))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\legacy\save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at model\model.h5
+[2024-07-07 16:51:04,898: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:51:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:53:42,363: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:53:42,363: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:54:08,855: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:54:08] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:54:13,954: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 19, in predict
+    model = load_model(os.path.join("artifacts\training", "model.h5"))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\keras\saving\legacy\save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at artifacts	raining\model.h5
+[2024-07-07 16:54:13,967: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:54:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:54:49,969: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:54:49,969: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:54:59,843: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:54:59] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:55:06,073: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 22, in predict
+    test_image = image.load_img(imagename, target_size = (224,224))
+AttributeError: module 'keras.preprocessing.image' has no attribute 'load_img'
+[2024-07-07 16:55:06,086: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:55:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:55:46,261: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:55:46,261: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:55:55,208: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:55:55] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:55:59,760: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 22, in predict
+    test_image = image.load_img(imagename, target_size = (224,224))
+AttributeError: module 'keras.preprocessing.image' has no attribute 'load_img'
+[2024-07-07 16:55:59,775: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:55:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-07-07 16:58:10,576: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2024-07-07 16:58:10,576: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-07 16:58:14,927: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:58:14] "GET / HTTP/1.1" 200 -]
+[2024-07-07 16:58:22,759: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 16:58:22] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:01:02,781: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:01:02] "POST /predict HTTP/1.1" 200 -]
+[2024-07-07 17:01:27,747: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\keyur\miniconda3\envs\mlflowproj\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\project\chest cancer classification\end-to-end-chest-cancer-classification-using-mlflow-and-dvc\src\cnnClassifier\pipeline\prediction.py", line 30, in predict
+    elif result[1] == 2:
+IndexError: index 1 is out of bounds for axis 0 with size 1
+[2024-07-07 17:01:27,780: INFO: _internal: 127.0.0.1 - - [07/Jul/2024 17:01:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]

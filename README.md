@@ -24,20 +24,23 @@
 
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a4545eac5b10041d5c8edbcef0 \
+os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/keyurdhanani456/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC.mlflow"
+\
+os.environ["MLFLOW_TRACKING_USERNAME"]="keyurD1010" \
+os.environ["MLFLOW_TRACKING_PASSWORD"] = "f5fa6376baf1c7dab465beb251c9314e7bfbd260" \
+
 python script.py
 
 Run this to export as env variables:
+below this is for linux / mac only for windows use set instard of export
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/keyurdD1010/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy
+export MLFLOW_TRACKING_USERNAME=keyurdD1010
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9353c5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=35e6c3ec1e2b0ced9638d403c4bad9ffe7b189be
 
 ```
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/Chest%20Cancer%20Classification/End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC/mlruns/0/b63ee46a13534c9b905e64510185ddb6/artifacts
+end_time: 1720346305650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b63ee46a13534c9b905e64510185ddb6
+run_name: crawling-penguin-866
+run_uuid: b63ee46a13534c9b905e64510185ddb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720346281811
+status: 3
+tags: []
+user_id: keyur
